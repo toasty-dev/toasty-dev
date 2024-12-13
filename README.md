@@ -1,16 +1,39 @@
-## Hi there 👋
+# About Me
 
-<!--
-**toasty-dev/toasty-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Introduction
+Welcome to my GitHub! I'm dedicated Software developer with expertise in Game Hacking.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Key Highlights
+- **Current Projects:**
+  - [Cup](https://github.com/toasty-dev/cantputdownthecup/tree/main): Advanced and powerful bedwars cheat for roblox.
+  - [Forkspoofer](https://github.com/toasty-dev/Fork-spoofer): Simple mac spoofer for Roblox.
+
+- **Languages:**
+  - **Programming Languages:** Rust, Lua, C++, C#, C, Java, JS, PHP, Python
+
+---
+
+## 🌱 Areas of Exploration
+Currently expanding my knowledge in:
+- Memory maniuplation
+- DLL injection
+- Game hacking
+
+---
+
+## 📬 Connect with Me
+You can reach me via:
+- **Discord:** [Discord](https://discord.com/users/524777955420012554)
+
+---
+
+## 🛠️ Development Environment
+- **Operating System:** Windows, Linux
+- **Primary Editor:** Visual Studio Code
+- **Favorite Tools:** Figma, Git, IDA
+
+---
+
+Thank you for visiting my GitHub! Explore my repositories and feel free to contribute or reach out for collaboration opportunities.
