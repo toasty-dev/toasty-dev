@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a software developer mostly interested in gamehacking 
 - **Languages:**
   - **Programming Languages:** Rust, Lua, C++, C#, JS, Python
   - **Learning to become more proficient in:** C, Java, and x86 Assembly.
-  - **Interested in trying:** Golang
+  - **Interested in trying:** Golang, and Typescript
 
 ---
 
